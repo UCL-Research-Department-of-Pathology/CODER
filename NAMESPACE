@@ -1,0 +1,5 @@
+export(chromothripsis)
+
+importFrom('GenomicRanges','granges')
+importFrom("parallel","mclapply","detectCores")
+importFrom("gtools","smartbind")

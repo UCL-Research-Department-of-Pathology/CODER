@@ -1,0 +1,10 @@
+Package: CODER
+Title: ChrOmothripsis DiscovEry through Rearrangements.
+Description: Tool for identifying putative chromothriptic regions.
+Depends: R (>= 3.1.0), GenomicRanges, parallel,gtools
+Imports: GenomicRanges, parallel,gtools
+Version: 0.2.0
+Date: 20/07/2017
+Author: Christopher Steele
+Maintainer: Christopher Steele <christopher.d.steele.1@gmail.com>
+License: GPL-3
